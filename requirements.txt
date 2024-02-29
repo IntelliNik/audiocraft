@@ -21,4 +21,3 @@ gradio
 torchmetrics
 encodec
 protobuf
-pydantic<2
