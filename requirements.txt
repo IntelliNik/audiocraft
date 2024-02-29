@@ -1,4 +1,4 @@
-# please make sure you have already a pytorch install that is cuda enabled!
+# please make sure you have already a pytorch installed with cuda enabled!
 av
 einops
 flashy>=0.0.1
@@ -21,3 +21,4 @@ gradio
 torchmetrics
 encodec
 protobuf
+pydantic<2
